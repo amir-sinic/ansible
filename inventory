@@ -1,2 +1,2 @@
-192.168.1.159
-192.168.1.165
+192.168.1.159 ansible_user=sinic
+192.168.1.165 ansible_user=sinic
